@@ -1,0 +1,18 @@
+The goal is to create an app, which would allow me to store progress on my trainings at the gym.
+The main page:
+ - Add training
+ - View trainings
+ - Add exercise type
+ - Quit
+
+ Add training:
+ - Pick the exercise
+ - Shows recent three trainings
+ - Accept input on number of series and repeats in the series
+ - Small break between series (30 seconds counter)
+ - Big break between exercises (3 mins counter)
+ - Loop or quit
+
+ View trainings:
+ - Sort by date
+ - Sort by exercise type
