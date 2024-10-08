@@ -16,3 +16,15 @@ The main page:
  View trainings:
  - Sort by date
  - Sort by exercise type
+
+ Exercise type:
+ - Name (text)
+ - Body part (text)
+
+ Training type:
+ - Date
+ - Exercises:
+    - Exercise (name, body part)
+    - No series
+    - No. of repeats per series
+    - Weight per series
